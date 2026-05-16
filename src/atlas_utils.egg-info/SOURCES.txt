@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+src/atlas_utils/__init__.py
+src/atlas_utils/brain_atlas.py
+src/atlas_utils.egg-info/PKG-INFO
+src/atlas_utils.egg-info/SOURCES.txt
+src/atlas_utils.egg-info/dependency_links.txt
+src/atlas_utils.egg-info/requires.txt
+src/atlas_utils.egg-info/top_level.txt
